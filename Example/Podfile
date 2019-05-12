@@ -6,7 +6,9 @@ target 'MonitorYourApp_Example' do
   target 'MonitorYourApp_Tests' do
     inherit! :search_paths
 
-    pod 'Quick', '~> 1.2.0'
-    pod 'Nimble', '~> 7.0.2'
+	#pod 'Quick', '~> 1.2.0'
+	#pod 'Nimble', '~> 7.0.2'
+	pod 'Moya', '~> 12.0.1'
+
   end
 end

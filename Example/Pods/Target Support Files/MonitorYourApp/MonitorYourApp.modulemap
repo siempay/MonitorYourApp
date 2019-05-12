@@ -1,0 +1,6 @@
+framework module MonitorYourApp {
+  umbrella header "MonitorYourApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

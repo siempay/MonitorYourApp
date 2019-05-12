@@ -1,0 +1,22 @@
+{
+  "name": "MonitorYourApp",
+  "version": "0.1.0",
+  "summary": "A short description of MonitorYourApp.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/siempay/MonitorYourApp",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "siempay": "siempay@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/siempay/MonitorYourApp.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MonitorYourApp/Classes/**/*"
+}

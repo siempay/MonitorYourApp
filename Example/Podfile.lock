@@ -1,0 +1,16 @@
+PODS:
+  - MonitorYourApp (0.1.0)
+
+DEPENDENCIES:
+  - MonitorYourApp (from `../`)
+
+EXTERNAL SOURCES:
+  MonitorYourApp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MonitorYourApp: 9cab1a74940a1144fab336eb8381c1d504173947
+
+PODFILE CHECKSUM: 17cfebfddd8f2ce75ed4b67b7e53f7ffb72b24fd
+
+COCOAPODS: 1.5.3
